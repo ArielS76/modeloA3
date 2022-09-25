@@ -1,0 +1,21 @@
+
+img{
+    width: 50px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.redes{
+    margin-right: 0.5em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+div{
+    background-color: aquamarine;
+}
+#ap{
+    width: 30%;
+}
